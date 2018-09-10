@@ -1,0 +1,8 @@
+prefix=/home/randalf/robotex/devel
+
+Name: diagnostic_msgs
+Description: Description of diagnostic_msgs
+Version: 1.12.6
+Cflags: -I/home/randalf/robotex/devel/include
+Libs: -L/home/randalf/robotex/devel/lib 
+Requires: message_runtime std_msgs

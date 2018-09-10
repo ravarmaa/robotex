@@ -1,0 +1,8 @@
+prefix=/home/randalf/robotex/install
+
+Name: camera_calibration_parsers
+Description: Description of camera_calibration_parsers
+Version: 1.11.13
+Cflags: -I/home/randalf/robotex/install/include
+Libs: -L/home/randalf/robotex/install/lib -lcamera_calibration_parsers
+Requires: sensor_msgs

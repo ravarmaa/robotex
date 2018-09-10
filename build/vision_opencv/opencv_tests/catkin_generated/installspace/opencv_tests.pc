@@ -1,0 +1,8 @@
+prefix=/home/randalf/robotex/install
+
+Name: opencv_tests
+Description: Description of opencv_tests
+Version: 1.12.8
+Cflags: 
+Libs: -L/home/randalf/robotex/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/randalf/robotex/devel
+
+Name: visualization_msgs
+Description: Description of visualization_msgs
+Version: 1.12.6
+Cflags: -I/home/randalf/robotex/devel/include
+Libs: -L/home/randalf/robotex/devel/lib 
+Requires: geometry_msgs message_runtime std_msgs

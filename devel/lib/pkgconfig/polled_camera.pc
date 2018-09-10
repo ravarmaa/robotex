@@ -1,0 +1,8 @@
+prefix=/home/randalf/robotex/devel
+
+Name: polled_camera
+Description: Description of polled_camera
+Version: 1.11.13
+Cflags: -I/home/randalf/robotex/devel/include -I/home/randalf/robotex/src/image_common/polled_camera/include
+Libs: -L/home/randalf/robotex/devel/lib -lpolled_camera
+Requires: image_transport message_runtime roscpp sensor_msgs std_msgs

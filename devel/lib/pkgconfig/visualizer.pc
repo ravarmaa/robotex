@@ -1,0 +1,8 @@
+prefix=/home/randalf/robotex/devel
+
+Name: visualizer
+Description: Description of visualizer
+Version: 0.0.0
+Cflags: -I/home/randalf/robotex/src/visualizer/include
+Libs: -L/home/randalf/robotex/devel/lib -lvisualizer
+Requires: cv_bridge image_transport roscpp sensor_msgs tf

@@ -1,0 +1,8 @@
+prefix=/home/randalf/robotex/devel
+
+Name: visualizer1
+Description: Description of visualizer1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/randalf/robotex/devel/lib 
+Requires: 
